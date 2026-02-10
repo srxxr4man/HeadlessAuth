@@ -1,11 +1,19 @@
-Password Strength Checker
+**PASSWORD STRENGTH CHECKER - HEADLESS AUTH**
 
-A simple Python program that checks the strength of a password based on common security rules.
+**📌 DESCRIPTION**
 
-Includes the MODULE re (regax) which is python’s built-in Regular Expression Module.
-Features
+This project uses regular expressions to analyze password patterns efficiently. It is beginner-friendly, easy to extend, and ideal for learning input validation and basic security concepts in Python.
+A simple yet effective Python program that evaluates the strength of a password using common security best practices. It helps users understand how secure their passwords are and provides clear suggestions for improvement.
 
-- Checks password length.
-- Detects uppercase and lowercase letters.
-- Detects numbers and special characters.
-- Provides feedback to improve password strength.
+**🚀 FEATURES**
+
+✅ Validates minimum password length
+🔠 Detects both uppercase and lowercase letters
+🔢 Checks for numeric digits
+🔣 Identifies special characters
+💡 Provides actionable feedback to help create stronger passwords
+
+**🛠️ TECHNOLOGIES USED**
+
+Python
+re module (Python’s built-in Regular Expression library)
