@@ -134,14 +134,12 @@ This project demonstrates how Python regular expressions can be used for input v
 ## 📂 Project Structure
 
 ```text
-Password-Strength-Checker/
+HeadlessAuth/
 │
-├── password_checker.py
+├── Password.py
 │
 └── README.md
 ```
-
-*Note: Replace `password_checker.py` with your actual Python filename if it is different.*
 
 ---
 
@@ -157,19 +155,19 @@ Password-Strength-Checker/
 **1. Clone the repository**
 
 ```bash
-git clone <YOUR-REPOSITORY-URL>
+git clone https://github.com/srxxr4man/HeadlessAuth.git
 ```
 
 **2. Navigate to the project directory**
 
 ```bash
-cd Password-Strength-Checker
+cd HeadlessAuth
 ```
 
 **3. Run the Python program**
 
 ```bash
-python password_checker.py
+python Password.py
 ```
 
 No external Python packages are required because the `re` module is included in the Python standard library.
